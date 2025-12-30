@@ -1,7 +1,11 @@
+
+---
+
 # 🎮 Tic Tac Toe (Standard & Pro Mode) – C Console Game
 
 A feature-rich **Tic Tac Toe game written in C**, designed for two players and played entirely in the console. The game supports **two gameplay modes**, maintains a **scoreboard**, and provides an enhanced **Pro Mode** with a dynamic move queue.
 
+---
 
 ## 🚀 Features
 
@@ -33,6 +37,7 @@ A feature-rich **Tic Tac Toe game written in C**, designed for two players and p
 * Custom player names
 * Choice of starting mark (X or O)
 
+---
 
 ## 🧠 Game Rules
 
@@ -58,6 +63,7 @@ A feature-rich **Tic Tac Toe game written in C**, designed for two players and p
 * `standardMode()` & `proMode()` → Game flow controllers
 * `displayScoreCard()` → Displays current scores
 
+---
 
 ## ▶️ How to Compile and Run
 
@@ -77,7 +83,7 @@ gcc tic_tac_toe.c -o tic_tac_toe
 > This program uses `system("cls")`, which works on **Windows**.
 > For Linux/macOS, replace `cls` with `clear`.
 
-
+---
 
 ## 🧩 Controls
 
@@ -88,7 +94,7 @@ gcc tic_tac_toe.c -o tic_tac_toe
   * Player marks
   * Moves
 
-
+---
 
 ## 📌 Scoring System
 
@@ -97,6 +103,7 @@ gcc tic_tac_toe.c -o tic_tac_toe
 | Standard Mode | 10         | 0    | 0    |
 | Pro Mode      | 20         | —    | 0    |
 
+---
 
 ## 📂 Project Structure
 
@@ -105,7 +112,7 @@ tic_tac_toe.c
 README.md
 ```
 
-
+---
 
 ## ✨ Future Improvements (Optional)
 
@@ -115,7 +122,7 @@ README.md
 * Save/load game state
 * Cross-platform screen clearing
 
-
+---
 
 ## 👨‍💻 Author
 
@@ -126,4 +133,5 @@ Developed as a **C programming console project** to demonstrate:
 * User input handling
 * Modular programming
 
+---
 
